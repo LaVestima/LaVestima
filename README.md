@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white" height=40>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## :abacus: TODO:
 
