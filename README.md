@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 ## :abacus: TODO:
 
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height=40>
-<img align="left" alt="Symfony" src="https://img.shields.io/badge/-travis_ci-3EAAAF?style=for-the-badge&logo=travis&logoColor=white" height=40>
+<!--<img align="left" alt="Symfony" src="https://img.shields.io/badge/-travis_ci-3EAAAF?style=for-the-badge&logo=travis&logoColor=white" height=40>-->
+<img align="left" alt="Symfony" src="https://img.shields.io/badge/-jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height=40>
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=white" height=40>
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height=40>
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height=40>
